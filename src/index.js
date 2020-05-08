@@ -16,5 +16,5 @@ app.post('/', async(req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log('Example app listening on port 3000!');
+    console.log('Example app listening on port 3000!\n ________________________\n|                        |\n| http://localhost:3000/ |\n|________________________|');
 });
