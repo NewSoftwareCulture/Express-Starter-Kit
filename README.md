@@ -1,6 +1,4 @@
-# Started Kit
-
-This starter kit includes Babel, Nodemon, Express.
+# Express Started Kit
 
 # Install
 
